@@ -1,6 +1,4 @@
-import os
-os.environ["GEMINI_API_KEY"] = "AIzaSyD31xGEwYEtV4V2kzXmrvC5qiix_vtzank"
-os.environ["TAVILY_API_KEY"] = "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"
+
 
 import os
 from dotenv import load_dotenv
