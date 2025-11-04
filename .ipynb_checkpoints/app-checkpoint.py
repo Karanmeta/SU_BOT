@@ -23,7 +23,7 @@ def load_bot():
     memory = get_memory()
 
     llm = ChatGoogleGenerativeAI(
-        model="gemini-2.5-pro",
+        model="gemini-1.5-pro",
         google_api_key=Config.GEMINI_API_KEY,
         temperature=0.3
     )
