@@ -1,0 +1,20 @@
+The Computer Engineering Department at SCET emphasizes computing systems, hardware, and networking along with strong software foundations.
+
+Key Areas of Focus:
+- Computer Architecture and Operating Systems
+- Microprocessors and Embedded Systems
+- Networking and Cybersecurity
+- Systems Programming and Compiler Design
+- Database Management and Software Engineering
+
+The department aims to produce technically skilled professionals who can work across hardware-software integration and system-level design.
+
+Faculty:
+Experienced faculty with expertise in systems programming, hardware design, and network security.
+Faculty regularly contribute to research journals and academic conferences.
+
+Facilities:
+The department is equipped with Computer Architecture Labs, Networking Labs, and High-Performance Computing clusters for advanced projects.
+
+Curriculum:
+Includes courses such as Microprocessor and Interfacing, Computer Networks, Operating Systems, Compiler Construction, and Machine Learning.

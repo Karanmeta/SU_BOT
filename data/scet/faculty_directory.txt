@@ -1,0 +1,14 @@
+Information Technology Department:
+- Dr. Vivaksha Jariwala (HOD) — Ph.D. in Computer Engineering, Research in AI and Data Analytics
+- Prof. Mita Parikh — Cloud Computing and IoT
+- Prof. Hiren H. Vavaiya — Web Technologies
+- Prof. Vivek Champenaria — Machine Learning and Software Design
+
+Computer Engineering Department:
+- Prof. Ankit Patel — Cybersecurity
+- Prof. Sneha Shah — Compiler Design
+- Prof. Dimple Mehta — Database Systems
+
+Electronics and Communication:
+- Dr. Bhavesh Patel — Embedded Systems and Signal Processing
+- Prof. Rina Desai — Communication Networks

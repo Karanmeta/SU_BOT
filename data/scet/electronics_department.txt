@@ -1,0 +1,16 @@
+The Electronics and Communication Engineering Department at SCET focuses on modern electronics, communication systems, and embedded technologies.
+
+Core Areas:
+- Analog and Digital Electronics
+- Communication Systems
+- Embedded Systems and VLSI
+- Signal Processing and IoT Devices
+- Robotics and Control Systems
+
+Faculty:
+Led by experienced professors with research in RF Engineering, Digital Signal Processing, and Embedded Circuit Design.
+
+Labs:
+Electronics Workshop, Communication Lab, Microcontroller Lab, and IoT Lab.
+
+The department emphasizes practical exposure through projects, mini-labs, and research-based assignments.

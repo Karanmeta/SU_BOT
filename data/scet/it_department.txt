@@ -1,0 +1,22 @@
+The Information Technology Department at SCET focuses on software systems, artificial intelligence, and data-driven applications.
+It was established to prepare students for careers in modern computing technologies and digital transformation.
+
+Key Areas of Focus:
+- Software Development and Full-Stack Engineering
+- Artificial Intelligence and Machine Learning
+- Data Science and Cloud Computing
+- Web Technologies and Mobile App Development
+- Cybersecurity and IoT
+
+Laboratories:
+The department houses specialized labs for AI, Machine Learning, Data Analytics, Web Technologies, and IoT applications.
+
+Faculty:
+The department is headed by Dr. Vivaksha Jariwala.
+Faculty members include Prof. Mita Parikh, Prof. Hiren Vavaiya, and Prof. Vivek Champenaria, who are actively involved in research and innovation.
+
+Student Achievements:
+Students regularly participate in Smart India Hackathon, GUJCOST projects, and publish papers in national and international conferences.
+
+Curriculum:
+Courses include Programming for Problem Solving, Data Structures, Database Systems, Artificial Intelligence, Cloud Computing, Web Development, and Big Data Analytics.
