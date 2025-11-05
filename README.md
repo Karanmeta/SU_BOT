@@ -217,8 +217,4 @@ Then open the URL shown in the terminal (usually `http://localhost:8501`).
 ## 🏁 Author
 
 **Karan Mehta**
-🎮 AI & Soulslike Gaming Enthusiast
-🔬 AI Developer | RAG | Agentic Systems
-📍 Surat, India
-
 ---
